@@ -1,0 +1,731 @@
+temperature,hometime,workload,earlymeeting,food_cate,food
+-1.5977966785430908,6,Normal,0,japanese,donkatsu
+-1.7663495540618896,6,Normal,1,korean,bibimbap
+-1.7004995346069336,6,High,0,korean,cold noodles
+0.06454062461853027,8,Normal,0,indian,curry rice
+-1.1810755252838134,6,Normal,0,korean,soybean paste stew
+1.9010664463043212,0,No work,0,japanese,sushi
+-2.91539273262024,0,No work,0,western,pasta
+-1.9949477195739749,6,Normal,1,western,pasta
+0.012248706817626956,9,Normal,0,vietnam,banh mi thit
+-2.191636323928833,6,Normal,0,chinese,black bean sauce noodle
+-1.700063371658325,6,Normal,0,korean,cold noodles
+0.09794349670410156,6,Normal,0,chinese,black bean sauce noodle
+-0.5764071941375732,0,No work,0,korean,korean bbq
+-1.85621829032898,0,No work,0,korean,korean bbq
+0.08919248580932618,6,Low,0,indian,curry rice
+-0.07014317512512208,6,Low,0,indian,curry rice
+-1.7361949443817142,6,Normal,0,korean,cold noodles
+0.20915353298187256,6,Normal,0,korean,bibimbap
+-0.8145539164543152,7,Low,0,western,fried chicken
+-2.609615755081177,0,No work,0,western,pasta
+-1.7117160320281983,0,No work,0,korean,kimchi stew
+-2.095895195007324,7,Normal,0,vietnam,pho
+0.4014197111129761,6,Normal,0,japanese,sushi
+-0.5920864224433899,6,Normal,0,western,pasta
+-0.251704478263855,7,High,0,mexican,taco
+-1.7735528945922852,6,Normal,1,western,pasta
+-0.5526630640029907,0,No work,0,korean,kimchi stew
+-0.2200786590576172,0,No work,0,chinese,hotpot(huoguo)
+-3.710775136947632,6,Normal,0,chinese,black bean sauce noodle
+-1.7014166355133058,6,Normal,1,korean,cold noodles
+-0.278220009803772,6,High,1,japanese,sushi
+-4.2719619274139395,8,Normal,1,chinese,black bean sauce noodle
+0.553130030632019,6,Low,0,indian,curry rice
+3.522718572616577,0,No work,0,japanese,donkatsu
+1.7844171047210695,0,No work,0,korean,cold noodles
+0.8650965809822083,7,High,0,japanese,sushi
+-1.3048079013824463,10,Normal,0,chinese,fried rice
+3.7298952579498295,6,Normal,1,japanese,sushi
+0.09119105339050293,9,Normal,0,chinese,black bean sauce noodle
+3.8680881023406974,8,Normal,1,japanese,sushi
+-0.8734500408172607,0,No work,0,western,fried chicken
+-1.0449409008026125,0,No work,0,western,pasta
+1.0086400032043457,6,Normal,1,japanese,donkatsu
+-3.1154846668243414,7,Normal,0,western,pasta
+-1.7115395069122314,6,Normal,0,japanese,sushi
+0.4184889316558838,6,High,0,indian,curry rice
+1.6547838687896732,6,Normal,0,vietnam,pho
+1.2208190441131592,0,No work,0,korean,cold noodles
+-0.2592604398727417,0,No work,0,japanese,donkatsu
+0.8289366126060487,6,Normal,0,chinese,fried rice
+0.7005129456520081,6,Normal,0,western,pasta
+-0.21226227283477786,6,Normal,0,korean,soybean paste stew
+-0.12563650608062746,6,Normal,0,chinese,black bean sauce noodle
+-0.061964583396911625,6,Low,0,western,fried chicken
+0.88747718334198,0,No work,0,western,hotdog
+3.978047513961792,0,No work,0,chinese,fried rice
+3.8170028209686278,8,Normal,0,korean,cold noodles
+4.6967444896698,9,High,0,western,hamburger
+-1.0748989582061768,8,Normal,0,korean,cold noodles
+6.928476715087892,6,Normal,1,korean,bibimbap
+7.724766349792482,7,Low,1,chinese,black bean sauce noodle
+9.520513725280765,0,No work,0,japanese,donkatsu
+7.381861591339113,0,No work,0,korean,cold noodles
+6.6750312805175795,10,Normal,0,japanese,sushi
+7.871279335021972,9,Normal,0,western,pasta
+10.319111061096194,7,High,0,vietnam,pho
+5.011497354507448,7,Normal,0,western,pasta
+8.119102287292481,7,High,1,indian,curry rice
+8.688446998596191,0,No work,0,vietnam,banh mi thit
+6.484102344512941,0,No work,0,western,pasta
+7.00701208114624,6,Normal,0,chinese,fried rice
+5.6513369560241715,6,High,0,chinese,black bean sauce noodle
+5.8505331039428725,6,High,0,western,pasta
+7.1055268287658695,6,High,0,korean,bibimbap
+6.75825242996216,7,Normal,1,chinese,black bean sauce noodle
+7.628211975097656,0,No work,0,vietnam,banh mi thit
+5.559822845458986,0,No work,0,chinese,black bean sauce noodle
+7.91809196472168,8,Low,0,korean,kimchi stew
+9.294523811340332,8,Normal,1,chinese,fried rice
+7.1969488143920906,6,Normal,0,korean,cold noodles
+5.4496002197265625,6,Normal,0,chinese,black bean sauce noodle
+8.842065620422364,6,Normal,1,chinese,black bean sauce noodle
+5.36221399307251,0,No work,0,korean,cold noodles
+5.826246166229247,0,No work,0,japanese,sushi
+6.067802333831788,6,Low,0,chinese,hotpot(huoguo)
+7.130579376220704,7,Normal,0,japanese,donkatsu
+7.448698806762697,10,Normal,0,japanese,sushi
+8.36409854888916,6,High,1,korean,kimchi stew
+7.910705375671388,6,Normal,0,indian,curry rice
+6.078118610382082,0,No work,0,korean,bibimbap
+10.937053298950195,0,No work,0,western,pasta
+9.617644786834717,6,Low,0,indian,curry rice
+9.751189041137696,6,Low,0,chinese,fried rice
+9.315788555145264,6,Low,0,chinese,black bean sauce noodle
+13.406826782226565,7,Normal,0,japanese,donkatsu
+15.011252975463867,7,High,0,chinese,black bean sauce noodle
+9.503549480438233,0,No work,0,western,hotdog
+14.713356399536133,0,No work,0,korean,cold noodles
+11.678894233703616,8,Normal,0,korean,cold noodles
+9.545247173309326,7,Normal,0,western,pasta
+10.514605522155762,9,Low,0,chinese,black bean sauce noodle
+11.48257827758789,6,Normal,0,chinese,fried rice
+11.133360099792483,6,Normal,0,chinese,black bean sauce noodle
+12.030632972717285,0,No work,0,korean,kimchi stew
+9.243793487548828,0,No work,0,japanese,sushi
+11.109079742431641,6,Normal,0,japanese,sushi
+13.714903450012207,6,Low,0,chinese,fried rice
+12.47238063812256,6,Low,0,chinese,hotpot(huoguo)
+12.395391654968266,10,Normal,1,western,pasta
+12.633967781066895,7,High,1,western,pizza
+13.739359474182132,0,No work,0,western,pasta
+11.48331527709961,0,No work,0,korean,cold noodles
+10.62221088409424,6,Normal,0,western,hamburger
+13.961674118041993,7,Low,0,japanese,sushi
+11.668173408508304,6,Low,0,western,pasta
+9.933747482299808,9,Low,0,western,hamburger
+13.655112075805665,7,Normal,0,korean,bibimbap
+9.402409172058103,0,No work,0,western,pasta
+13.472183990478516,0,No work,0,korean,cold noodles
+9.342874717712405,6,Low,0,japanese,donkatsu
+20.623680114746094,6,Low,0,chinese,black bean sauce noodle
+21.997044372558594,7,Low,0,korean,kimchi stew
+17.58480796813965,7,Normal,1,western,pasta
+19.480907440185547,6,Normal,0,korean,cold noodles
+18.927095794677733,0,No work,0,western,pasta
+19.96153182983399,0,No work,0,vietnam,banh mi thit
+19.881251525878913,6,Normal,0,chinese,black bean sauce noodle
+17.265644836425782,7,Normal,0,korean,kimchi stew
+18.273727416992188,6,Normal,0,chinese,fried rice
+17.791833877563477,6,Normal,0,korean,cold noodles
+19.989999008178717,8,Normal,0,chinese,black bean sauce noodle
+19.719014358520514,0,No work,0,western,fried chicken
+18.74399490356445,0,No work,0,mexican,burrito
+20.109780883789067,6,Normal,0,korean,soybean paste stew
+21.171252441406256,6,Low,0,western,steak
+16.8489013671875,6,Normal,0,korean,cold noodles
+19.653629684448248,9,Normal,0,japanese,sushi
+20.85829429626465,6,Normal,0,indian,curry rice
+19.13604888916016,0,No work,0,indian,curry rice
+18.887036895751955,0,No work,0,chinese,hotpot(huoguo)
+18.034747314453124,6,Low,1,vietnam,banh mi thit
+20.612064361572266,6,Low,0,vietnam,banh mi thit
+20.962234115600587,8,Normal,0,korean,korean bbq
+19.791712951660163,6,Low,0,japanese,sushi
+18.00876579284668,6,Normal,0,vietnam,banh mi thit
+19.288552856445317,0,No work,0,western,pasta
+18.11776161193848,0,No work,0,vietnam,banh mi thit
+21.04943351745605,10,High,0,chinese,black bean sauce noodle
+21.22995376586914,9,Normal,1,western,pasta
+19.95212020874024,8,Normal,0,chinese,fried rice
+18.872411346435552,6,Low,1,korean,cold noodles
+22.984851074218756,6,Normal,0,korean,korean bbq
+22.31586036682129,0,No work,0,western,pasta
+21.481103134155283,0,No work,0,chinese,hotpot(huoguo)
+23.09014129638672,8,Normal,1,korean,bibimbap
+21.70171203613281,7,Normal,0,korean,bibimbap
+22.544088745117193,6,Normal,0,western,pasta
+21.01857299804688,6,Normal,0,korean,bibimbap
+23.676561737060553,7,Low,0,western,hamburger
+21.91893348693848,0,No work,0,chinese,fried rice
+22.43061828613281,0,No work,0,japanese,donkatsu
+21.37143783569336,9,Normal,1,japanese,donkatsu
+23.10313262939453,6,High,0,japanese,sushi
+24.033675765991212,6,Low,1,chinese,black bean sauce noodle
+20.31407356262207,9,Normal,0,mexican,taco
+21.629797363281245,6,Normal,1,japanese,donkatsu
+22.631150817871088,0,No work,0,korean,cold noodles
+23.65472526550293,0,No work,0,western,pasta
+22.95351486206055,6,High,0,indian,curry rice
+22.386303329467772,6,Normal,1,chinese,hotpot(huoguo)
+24.222530746459967,8,Normal,0,chinese,black bean sauce noodle
+22.602117156982427,6,Normal,0,chinese,black bean sauce noodle
+20.768975067138676,7,Normal,0,korean,cold noodles
+22.684313201904303,0,No work,0,chinese,black bean sauce noodle
+23.932413864135746,0,No work,0,chinese,black bean sauce noodle
+22.908583068847662,6,Low,1,chinese,hotpot(huoguo)
+23.120583724975592,6,Normal,0,chinese,hotpot(huoguo)
+24.48837471008301,6,Low,0,indian,curry rice
+22.723059463500977,6,Low,0,western,hamburger
+23.196866607666017,6,High,1,western,pasta
+22.889374160766607,0,No work,0,western,hamburger
+26.636515426635746,0,No work,0,japanese,donkatsu
+24.30972671508789,7,Normal,0,mexican,burrito
+25.76649436950684,6,Normal,0,western,hamburger
+27.210959625244147,7,Normal,0,korean,kimchi stew
+25.58935356140137,6,Normal,0,korean,cold noodles
+25.128232192993174,6,Normal,0,vietnam,pho
+27.52948760986328,0,No work,0,korean,cold noodles
+26.219951629638672,0,No work,0,chinese,black bean sauce noodle
+24.5858154296875,6,Normal,0,indian,curry rice
+25.198425674438482,7,Normal,0,indian,curry rice
+26.030783081054693,6,Normal,1,chinese,black bean sauce noodle
+25.88143997192383,6,Normal,0,japanese,sushi
+26.22061080932617,6,Normal,0,korean,cold noodles
+25.524032974243173,0,No work,0,japanese,donkatsu
+25.618525695800788,0,No work,0,vietnam,banh mi thit
+26.007145309448248,6,High,1,indian,curry rice
+26.792759323120123,9,Normal,0,chinese,black bean sauce noodle
+28.41374397277832,6,Normal,0,korean,cold noodles
+26.74208030700684,6,Normal,0,chinese,black bean sauce noodle
+26.432859802246092,6,Normal,0,korean,cold noodles
+26.635184478759772,0,No work,0,korean,kimchi stew
+26.026572799682622,0,No work,0,western,pasta
+27.40048866271973,6,Normal,0,chinese,fried rice
+25.32456817626953,8,Normal,1,indian,curry rice
+24.96423606872559,7,Normal,1,korean,cold noodles
+26.2232349395752,10,Normal,1,chinese,black bean sauce noodle
+25.18039894104004,6,Normal,1,japanese,sushi
+25.625807571411126,0,No work,0,korean,soybean paste stew
+25.88192863464356,0,No work,0,chinese,black bean sauce noodle
+25.14071311950684,6,Normal,0,korean,soybean paste stew
+26.24748039245605,6,Low,0,vietnam,pho
+26.40385513305664,6,Normal,0,indian,curry rice
+27.567087554931646,8,Normal,0,japanese,sushi
+25.841090774536127,7,High,0,vietnam,banh mi thit
+28.107383728027344,0,No work,0,chinese,black bean sauce noodle
+26.738356781005866,0,No work,0,chinese,black bean sauce noodle
+24.832743835449218,7,Normal,1,chinese,black bean sauce noodle
+25.795241165161126,6,Normal,1,western,pasta
+25.61735877990723,6,High,1,korean,soybean paste stew
+26.89551277160645,9,Normal,0,indian,curry rice
+28.437145233154297,10,Normal,1,korean,bibimbap
+28.104854583740234,0,No work,0,chinese,black bean sauce noodle
+26.326499938964844,0,No work,0,japanese,sushi
+25.43923377990723,6,Normal,1,korean,korean bbq
+26.38514404296875,6,Normal,0,chinese,black bean sauce noodle
+28.78816642761231,6,Normal,0,indian,curry rice
+25.300238418579106,6,High,1,korean,soybean paste stew
+29.08170394897461,6,Normal,1,western,pasta
+26.11928062438965,0,No work,0,korean,cold noodles
+27.607159042358397,0,No work,0,western,pasta
+25.279212188720702,9,Low,0,japanese,sushi
+31.27955551147461,6,Low,0,indian,curry rice
+27.17128105163575,6,Low,0,indian,curry rice
+27.709193420410163,6,Normal,0,vietnam,banh mi thit
+25.63820877075195,6,Normal,0,korean,cold noodles
+27.32350234985352,0,No work,0,chinese,black bean sauce noodle
+26.611694717407232,0,No work,0,chinese,black bean sauce noodle
+27.838068771362305,6,High,0,indian,curry rice
+24.386392211914067,7,Low,0,western,pasta
+27.895158767700195,7,Low,1,japanese,donkatsu
+26.788610076904302,7,High,0,korean,bibimbap
+24.504016876220703,7,Normal,0,japanese,donkatsu
+23.95492935180664,0,No work,0,mexican,burrito
+24.29170036315918,0,No work,0,korean,soybean paste stew
+22.90599594116211,7,Normal,0,korean,cold noodles
+22.20086936950684,7,Normal,0,chinese,fried rice
+23.11509895324707,6,Low,0,japanese,donkatsu
+23.131318664550786,8,Low,0,japanese,sushi
+21.3996021270752,7,High,0,chinese,black bean sauce noodle
+22.521823501586915,0,No work,0,vietnam,banh mi thit
+20.327550506591802,0,No work,0,korean,cold noodles
+23.45893669128418,7,Normal,0,korean,bibimbap
+21.87774543762207,6,Normal,0,chinese,black bean sauce noodle
+23.49230079650879,6,Normal,1,japanese,donkatsu
+21.49530792236328,7,Normal,0,japanese,sushi
+23.730175399780283,9,Low,0,chinese,black bean sauce noodle
+25.298099517822266,0,No work,0,chinese,black bean sauce noodle
+23.37585144042969,0,No work,0,western,pasta
+21.977809143066413,6,Normal,0,indian,curry rice
+23.061994934082037,6,High,0,indian,curry rice
+22.67947158813477,6,Low,1,western,pasta
+20.337733459472663,7,High,0,japanese,donkatsu
+23.171299743652344,10,High,0,western,pasta
+23.74826622009277,0,No work,0,vietnam,banh mi thit
+24.300424194335942,0,No work,0,chinese,black bean sauce noodle
+24.505925750732427,6,Normal,1,western,pasta
+22.64305877685547,6,Normal,0,chinese,black bean sauce noodle
+22.88996849060059,9,High,1,korean,bibimbap
+21.004785537719727,6,Normal,0,korean,bibimbap
+21.826478195190436,7,High,0,western,pasta
+21.74213409423828,0,No work,0,vietnam,banh mi thit
+23.42431259155273,0,No work,0,chinese,black bean sauce noodle
+15.667292976379395,6,Normal,0,japanese,sushi
+16.469543838500982,6,Normal,0,korean,cold noodles
+15.201912117004394,6,High,0,japanese,sushi
+14.199426269531253,6,Normal,0,chinese,fried rice
+15.331721305847168,6,Normal,0,japanese,donkatsu
+14.685920906066894,0,No work,0,chinese,hotpot(huoguo)
+16.459886169433595,0,No work,0,chinese,black bean sauce noodle
+18.899336242675787,7,Normal,0,western,hamburger
+15.271625518798828,6,Normal,0,chinese,hotpot(huoguo)
+17.7413818359375,6,Normal,0,vietnam,banh mi thit
+15.589245414733886,7,Normal,0,western,pasta
+16.562277603149415,6,Low,0,korean,cold noodles
+16.760515594482428,0,No work,0,western,hotdog
+12.581040573120116,0,No work,0,chinese,black bean sauce noodle
+20.39000701904297,6,Normal,0,japanese,sushi
+17.956796264648442,7,Normal,0,korean,cold noodles
+17.394166946411133,6,High,0,japanese,sushi
+13.683583831787109,7,Normal,0,chinese,fried rice
+20.25773391723633,6,High,0,korean,korean bbq
+16.679418182373052,0,No work,0,mexican,burrito
+13.683796691894534,0,No work,0,korean,cold noodles
+19.16396484375,8,Normal,0,western,pasta
+14.890633964538575,7,High,1,chinese,black bean sauce noodle
+16.703592681884768,6,High,1,japanese,sushi
+17.228068542480468,6,High,1,western,pasta
+16.059590721130373,6,Normal,1,chinese,hotpot(huoguo)
+18.89600372314453,0,No work,0,korean,korean bbq
+15.992410469055176,0,No work,0,korean,soybean paste stew
+12.388467407226566,6,High,1,korean,bibimbap
+13.657922744750975,7,Low,0,japanese,sushi
+15.793024635314946,9,Normal,1,korean,kimchi stew
+8.156458282470702,8,Normal,0,chinese,fried rice
+10.134345245361331,6,Normal,0,korean,cold noodles
+10.722262573242187,0,No work,0,western,hamburger
+10.30063362121582,0,No work,0,japanese,donkatsu
+8.867745208740235,6,Normal,0,western,pasta
+9.48328685760498,6,Normal,1,korean,bibimbap
+1.147628402709961,6,Normal,0,korean,kimchi stew
+9.024817657470702,8,Low,0,western,hamburger
+4.8466192245483395,7,Normal,1,korean,cold noodles
+7.160036087036133,0,No work,0,korean,korean bbq
+6.976910018920899,0,No work,0,western,pasta
+0.481607437133789,6,High,0,korean,soybean paste stew
+8.790620613098145,6,Normal,0,chinese,black bean sauce noodle
+7.065294456481934,6,High,0,korean,cold noodles
+8.699620056152344,6,Normal,0,chinese,fried rice
+8.92130012512207,10,Normal,0,western,hotdog
+10.569869613647464,0,No work,0,chinese,fried rice
+4.005482196807861,0,No work,0,korean,korean bbq
+8.180012512207032,6,Normal,0,korean,kimchi stew
+6.99459400177002,6,Normal,1,chinese,fried rice
+2.5077678680419924,8,High,0,mexican,burrito
+6.945417594909668,6,Low,1,japanese,sushi
+6.452376937866212,6,Normal,0,japanese,sushi
+9.60208740234375,0,No work,0,chinese,black bean sauce noodle
+3.5601330757141114,0,No work,0,japanese,donkatsu
+7.248009395599365,6,Normal,1,korean,soybean paste stew
+11.127787399291993,6,Normal,0,korean,cold noodles
+7.3315332412719725,7,Normal,0,korean,cold noodles
+5.7110558509826665,6,Normal,0,western,pasta
+3.60637092590332,7,High,0,chinese,black bean sauce noodle
+-0.3579009294509888,0,No work,0,korean,kimchi stew
+-0.4344880819320679,0,No work,0,japanese,donkatsu
+-1.0134150028228759,6,Normal,1,western,hamburger
+1.3703969717025757,6,Normal,0,vietnam,pho
+-2.550402021408081,6,Normal,0,japanese,donkatsu
+0.7380768537521363,7,Low,0,japanese,donkatsu
+4.2880193233489985,7,Normal,0,chinese,fried rice
+4.0161434650421155,0,No work,0,western,pasta
+4.291179323196412,0,No work,0,korean,cold noodles
+1.007765281200409,8,Normal,0,korean,bibimbap
+2.808015012741089,7,Low,0,western,pasta
+0.4858262538909912,6,High,0,japanese,sushi
+1.320973801612854,8,Normal,1,korean,soybean paste stew
+-0.1723714590072632,7,High,1,korean,cold noodles
+2.4558943271636964,0,No work,0,korean,soybean paste stew
+-0.6567750453948975,0,No work,0,chinese,fried rice
+0.8254343986511231,9,Normal,1,western,hotdog
+2.337124967575073,6,Normal,0,korean,cold noodles
+5.339002084732057,6,Normal,1,korean,korean bbq
+7.635958623886109,6,Normal,0,western,pasta
+2.458481550216675,6,High,1,western,pasta
+2.5162436008453373,0,No work,0,western,steak
+-2.0678925037384035,0,No work,0,chinese,black bean sauce noodle
+0.2318892955780029,6,Low,1,korean,bibimbap
+-2.9493456363677986,6,Normal,1,indian,curry rice
+1.4830104112625122,6,Normal,0,japanese,donkatsu
+0.9520700693130494,6,Normal,0,korean,soybean paste stew
+2.282642936706543,6,Normal,0,western,hamburger
+0.9664034366607668,0,No work,0,korean,cold noodles
+2.144227933883667,0,No work,0,korean,cold noodles
+-1.0722762584686278,7,Normal,0,japanese,donkatsu
+-2.8012685298919684,6,High,1,korean,soybean paste stew
+-3.7742186069488532,6,Normal,0,japanese,donkatsu
+-0.5659212589263917,8,Normal,1,chinese,black bean sauce noodle
+-1.0894289493560791,7,Normal,1,western,pasta
+-0.46579350233078,0,No work,0,indian,curry rice
+-2.1107363224029543,0,No work,0,western,pasta
+-3.4470663547515867,8,Normal,1,korean,cold noodles
+-2.168435716629028,8,Normal,1,korean,kimchi stew
+-0.7133472681045533,7,High,0,japanese,sushi
+0.7358762979507447,8,Normal,0,chinese,black bean sauce noodle
+3.0735002040863035,7,Normal,0,korean,kimchi stew
+-1.0629348754882812,0,No work,0,chinese,black bean sauce noodle
+-0.6552610456943513,0,No work,0,indian,curry rice
+-1.1533648014068605,6,Normal,0,korean,soybean paste stew
+-0.4623558759689331,6,High,0,mexican,taco
+-5.310477781295778,10,High,1,chinese,black bean sauce noodle
+-0.6276299834251404,6,Normal,0,vietnam,pho
+-0.4882461667060852,6,Low,0,korean,cold noodles
+-3.5824041843414314,0,No work,0,vietnam,banh mi thit
+-0.05230712890625,0,No work,0,japanese,sushi
+-2.5403415203094486,6,Low,0,chinese,fried rice
+1.3041486263275148,7,Normal,0,vietnam,pho
+0.1031730890274048,6,Normal,0,vietnam,banh mi thit
+-1.4587466716766355,6,Normal,1,western,pasta
+-1.4702341079711916,7,Normal,1,japanese,donkatsu
+-0.3421379089355469,0,No work,0,korean,cold noodles
+-2.541740560531617,0,No work,0,japanese,donkatsu
+-0.3492672920227051,10,Normal,1,japanese,donkatsu
+0.18299047946929933,6,Normal,0,indian,curry rice
+0.5977642774581909,6,Low,0,korean,cold noodles
+-1.979358434677124,9,Normal,0,western,hotdog
+5.137924814224244,7,Normal,0,chinese,black bean sauce noodle
+1.6616978168487548,0,No work,0,korean,korean bbq
+2.1337291240692142,0,No work,0,mexican,taco
+1.3601670265197754,8,Normal,0,japanese,donkatsu
+2.9474518299102783,8,Normal,0,western,pasta
+-3.924970197677613,8,High,1,vietnam,banh mi thit
+1.5769065380096436,10,Normal,0,korean,soybean paste stew
+1.893060159683228,6,Low,0,chinese,hotpot(huoguo)
+-1.4618937969207764,0,No work,0,vietnam,banh mi thit
+2.8013445377349857,0,No work,0,korean,kimchi stew
+-2.2686988353729247,6,Normal,1,western,hamburger
+-3.0151188373565674,7,Normal,0,korean,bibimbap
+0.6853052854537964,6,Normal,0,chinese,black bean sauce noodle
+1.4035478591918946,6,Normal,0,western,pasta
+0.8493039131164551,10,Normal,0,chinese,black bean sauce noodle
+-1.9796299457550048,0,No work,0,chinese,black bean sauce noodle
+-3.9778710842132567,0,No work,0,korean,korean bbq
+0.9790849208831788,6,High,0,western,pasta
+0.4957944869995117,6,Normal,1,korean,cold noodles
+2.622550344467163,8,Normal,1,chinese,fried rice
+0.449053168296814,6,Normal,0,western,pasta
+-1.2274610042572025,6,High,0,japanese,sushi
+0.36250293254852295,0,No work,0,mexican,burrito
+-1.3196980953216553,0,No work,0,mexican,burrito
+-2.2870397090911867,7,Normal,0,japanese,sushi
+4.399932241439821,9,Normal,0,vietnam,banh mi thit
+0.8346925973892212,6,Normal,0,mexican,taco
+-4.625223588943482,6,High,0,chinese,hotpot(huoguo)
+7.8843215942382825,6,Normal,0,indian,curry rice
+7.155613613128662,0,No work,0,mexican,burrito
+6.072738170623778,0,No work,0,mexican,burrito
+8.18257064819336,6,High,0,indian,curry rice
+4.774100255966187,6,Normal,0,vietnam,banh mi thit
+9.341873168945312,6,Normal,0,chinese,hotpot(huoguo)
+6.471266365051269,6,Normal,0,western,pasta
+6.988547611236572,10,Normal,1,korean,korean bbq
+5.571440887451172,0,No work,0,chinese,fried rice
+7.78786563873291,0,No work,0,western,pasta
+6.509050750732423,6,Low,0,mexican,burrito
+7.774775886535645,6,Normal,1,chinese,black bean sauce noodle
+5.329433250427248,7,Low,0,korean,bibimbap
+7.356010246276857,8,Normal,0,indian,curry rice
+7.480699348449707,8,Normal,1,japanese,donkatsu
+7.298349761962892,0,No work,0,chinese,black bean sauce noodle
+6.064916419982912,0,No work,0,japanese,donkatsu
+4.076692008972168,8,Normal,0,western,pasta
+6.356055831909179,6,Normal,1,japanese,sushi
+8.59382381439209,7,Normal,0,japanese,donkatsu
+7.277492332458498,7,Low,0,chinese,fried rice
+7.7590528488159185,6,Normal,0,vietnam,pho
+7.422317600250246,0,No work,0,chinese,fried rice
+10.710235786437991,0,No work,0,western,pasta
+9.653673744201663,7,Normal,0,korean,korean bbq
+5.644679069519043,6,Low,0,japanese,sushi
+8.40756893157959,6,Normal,1,western,hamburger
+7.8935604095458975,6,Normal,0,korean,kimchi stew
+7.670180892944336,8,Low,1,indian,curry rice
+6.869493293762207,0,No work,0,western,pasta
+9.95979804992676,0,No work,0,korean,bibimbap
+10.765922927856446,6,Normal,1,japanese,sushi
+13.909296798706055,10,High,1,western,pasta
+12.305394172668455,7,Normal,0,indian,curry rice
+9.380873107910157,6,Low,0,chinese,fried rice
+14.509051895141607,6,Normal,0,western,pasta
+12.56997299194336,0,No work,0,chinese,black bean sauce noodle
+9.401614093780518,0,No work,0,western,pasta
+12.940442848205569,6,Normal,0,indian,curry rice
+11.41028995513916,6,Normal,0,western,hotdog
+11.176155281066897,8,Normal,1,japanese,donkatsu
+11.847962379455565,6,Low,0,korean,cold noodles
+7.0618692398071286,6,Normal,0,chinese,black bean sauce noodle
+13.010773086547852,0,No work,0,korean,cold noodles
+10.873670196533203,0,No work,0,chinese,hotpot(huoguo)
+8.35333127975464,7,Normal,0,japanese,sushi
+8.946951198577883,6,Normal,0,western,pasta
+13.478557205200195,7,Normal,0,indian,curry rice
+9.900457191467288,6,Normal,0,korean,cold noodles
+17.11156768798828,9,Low,0,korean,cold noodles
+12.167189598083494,0,No work,0,korean,korean bbq
+12.679843711853028,0,No work,0,chinese,black bean sauce noodle
+16.040388107299805,6,Normal,1,western,pasta
+17.380352783203126,6,High,0,korean,bibimbap
+11.613101577758789,9,High,0,western,pasta
+13.229572105407716,9,Normal,1,japanese,sushi
+10.861249923706056,6,Normal,0,mexican,taco
+15.031844329833984,0,No work,0,korean,soybean paste stew
+12.002697372436526,0,No work,0,japanese,donkatsu
+14.188789558410644,6,Normal,0,indian,curry rice
+12.55398044586182,6,Normal,1,korean,korean bbq
+18.81838264465332,6,Normal,1,japanese,donkatsu
+18.00096206665039,6,Normal,0,korean,cold noodles
+19.90386962890625,6,Normal,0,korean,cold noodles
+19.56489791870117,0,No work,0,western,pasta
+16.890239715576172,0,No work,0,vietnam,banh mi thit
+21.17905387878418,7,High,0,japanese,donkatsu
+18.632515716552735,6,Normal,0,western,pasta
+20.928579330444336,6,Normal,0,japanese,sushi
+18.921853256225585,6,Normal,1,vietnam,banh mi thit
+20.816960525512695,6,Normal,0,western,hamburger
+20.138327026367193,0,No work,0,japanese,donkatsu
+17.929793548583984,0,No work,0,korean,soybean paste stew
+17.050563430786134,10,Low,1,korean,cold noodles
+22.839319229125977,8,Normal,0,indian,curry rice
+19.041722106933594,6,Normal,1,japanese,donkatsu
+19.041353607177733,6,Normal,0,korean,cold noodles
+18.72481460571289,6,Low,0,korean,soybean paste stew
+18.887151336669927,0,No work,0,western,pasta
+19.712050628662116,0,No work,0,western,pasta
+17.618869018554687,6,Normal,0,korean,korean bbq
+17.543626403808595,7,Low,1,western,hotdog
+16.720573043823244,7,Normal,0,japanese,sushi
+21.5743350982666,6,High,0,korean,kimchi stew
+18.943790435791016,6,Normal,0,korean,soybean paste stew
+20.545597076416016,0,No work,0,mexican,burrito
+18.776755905151372,0,No work,0,chinese,black bean sauce noodle
+21.020528030395514,8,Normal,0,korean,cold noodles
+20.446952438354494,9,Normal,0,western,pasta
+20.014189529418946,7,Normal,0,korean,kimchi stew
+17.807650756835933,6,High,0,japanese,donkatsu
+16.556788063049318,6,Normal,0,mexican,taco
+22.67137222290039,0,No work,0,indian,curry rice
+21.17729797363281,0,No work,0,japanese,donkatsu
+21.476114654541014,6,Normal,0,japanese,sushi
+23.28997917175293,6,Normal,0,mexican,taco
+23.67352104187012,6,Normal,1,vietnam,banh mi thit
+21.27987594604493,9,Normal,0,japanese,donkatsu
+24.072848892211915,9,Normal,1,chinese,black bean sauce noodle
+23.302780532836923,0,No work,0,chinese,hotpot(huoguo)
+23.52268218994141,0,No work,0,japanese,sushi
+22.91415519714356,8,Normal,0,western,pasta
+24.048111343383788,6,Normal,0,korean,cold noodles
+22.385883331298828,7,Normal,0,western,pasta
+22.539729690551763,7,Normal,0,korean,soybean paste stew
+21.806702423095704,6,Normal,1,chinese,black bean sauce noodle
+22.418690109252925,0,No work,0,western,hamburger
+20.175713348388676,0,No work,0,japanese,sushi
+22.06483879089356,6,Normal,0,korean,cold noodles
+22.21124420166016,7,Normal,0,korean,soybean paste stew
+20.26212882995605,6,Normal,1,chinese,black bean sauce noodle
+22.789177703857426,7,Normal,0,japanese,sushi
+21.631147766113287,6,Normal,0,western,pasta
+22.817472076416017,0,No work,0,korean,cold noodles
+22.625729751586924,0,No work,0,western,hamburger
+23.901393508911127,7,High,0,korean,bibimbap
+21.402854156494147,8,Normal,0,korean,kimchi stew
+20.195401763916017,6,Normal,1,japanese,sushi
+21.615160369873053,6,Normal,0,western,pasta
+20.49872283935547,6,High,0,western,pasta
+23.218253326416022,0,No work,0,chinese,fried rice
+20.303249740600585,0,No work,0,korean,cold noodles
+25.599360275268555,6,Normal,0,korean,kimchi stew
+27.607404708862305,6,Normal,0,japanese,sushi
+27.33335647583008,6,Normal,0,chinese,black bean sauce noodle
+27.0648494720459,6,Normal,0,korean,bibimbap
+27.856251907348643,6,High,0,vietnam,banh mi thit
+25.334959411621092,0,No work,0,japanese,sushi
+25.09270515441895,0,No work,0,chinese,black bean sauce noodle
+26.141267776489254,6,Normal,0,western,pasta
+25.24136161804199,6,Normal,0,korean,cold noodles
+26.137985610961923,6,Normal,1,korean,cold noodles
+25.94700202941895,7,Normal,0,chinese,black bean sauce noodle
+25.42728462219239,8,Normal,1,chinese,black bean sauce noodle
+26.41970138549805,0,No work,0,western,pasta
+25.500557708740235,0,No work,0,vietnam,pho
+26.827112197875977,7,Normal,0,mexican,burrito
+25.63100090026856,7,Normal,0,korean,soybean paste stew
+25.38368377685547,7,Normal,1,korean,cold noodles
+24.473465347290038,6,Normal,0,korean,korean bbq
+24.82551193237305,7,Normal,0,chinese,black bean sauce noodle
+25.82071762084961,0,No work,0,korean,korean bbq
+24.73110733032227,0,No work,0,korean,soybean paste stew
+29.30721054077149,6,Low,0,japanese,donkatsu
+23.84178810119629,7,Normal,0,chinese,black bean sauce noodle
+26.163167190551764,6,Normal,0,korean,cold noodles
+25.812501907348636,7,Normal,1,chinese,fried rice
+23.50527687072755,6,Normal,0,korean,bibimbap
+26.944017028808595,0,No work,0,vietnam,banh mi thit
+25.49961128234864,0,No work,0,korean,cold noodles
+28.730841445922852,6,Normal,0,chinese,black bean sauce noodle
+25.706868362426764,6,Normal,1,western,pasta
+25.14217796325684,6,Normal,0,korean,kimchi stew
+31.09282455444336,6,Normal,0,korean,cold noodles
+27.140878677368164,6,Low,0,western,pasta
+28.367539978027345,0,No work,0,japanese,sushi
+26.028733825683595,0,No work,0,japanese,sushi
+26.901330947875977,7,Low,1,chinese,black bean sauce noodle
+28.828368377685553,7,Normal,1,chinese,fried rice
+25.40779113769531,7,Normal,0,japanese,donkatsu
+26.967902374267577,7,Normal,1,western,pasta
+26.74170188903809,7,Normal,0,korean,korean bbq
+24.821743774414067,0,No work,0,indian,curry rice
+28.049325561523442,0,No work,0,western,hotdog
+28.732133865356445,6,Low,0,vietnam,pho
+27.975927734375,6,Normal,0,korean,bibimbap
+26.99766731262207,6,Normal,0,japanese,sushi
+28.132929229736327,6,Normal,1,chinese,black bean sauce noodle
+28.456159591674805,6,Normal,0,korean,kimchi stew
+27.68542289733887,0,No work,0,western,pasta
+27.53819580078125,0,No work,0,chinese,fried rice
+28.72676773071289,6,Low,1,chinese,black bean sauce noodle
+26.45584220886231,6,Low,0,chinese,black bean sauce noodle
+25.881213760375978,6,Normal,0,korean,cold noodles
+29.29824333190918,6,Low,0,western,hamburger
+27.08292007446289,6,Normal,0,indian,curry rice
+25.6682243347168,0,No work,0,vietnam,banh mi thit
+28.334829330444336,0,No work,0,western,fried chicken
+26.43604736328125,6,Normal,1,korean,kimchi stew
+26.493611145019532,6,Normal,0,chinese,hotpot(huoguo)
+28.71780128479004,6,High,0,western,hamburger
+27.894321060180665,6,High,0,western,hamburger
+26.14484786987305,8,Normal,0,korean,soybean paste stew
+25.32047271728516,0,No work,0,indian,curry rice
+24.503650665283203,0,No work,0,chinese,fried rice
+20.624748992919926,7,Normal,0,western,hamburger
+22.51756858825684,6,Low,0,western,hotdog
+20.591351699829108,6,Normal,0,chinese,black bean sauce noodle
+22.140660858154302,6,Normal,0,western,pasta
+22.60925178527832,7,Normal,0,korean,soybean paste stew
+22.162285614013676,0,No work,0,japanese,sushi
+22.447631454467775,0,No work,0,japanese,sushi
+22.755504989624022,6,High,0,korean,kimchi stew
+21.81776580810547,6,Low,0,korean,cold noodles
+22.7919361114502,6,Normal,0,japanese,sushi
+20.021408462524413,7,Normal,0,chinese,black bean sauce noodle
+22.430163192749024,6,Normal,0,vietnam,banh mi thit
+22.157281112670898,0,No work,0,korean,bibimbap
+24.03450012207031,0,No work,0,korean,cold noodles
+24.700267028808604,6,Normal,0,korean,cold noodles
+23.505412292480468,6,Low,0,vietnam,banh mi thit
+21.270138549804688,6,Normal,0,japanese,donkatsu
+24.41960067749024,7,High,1,western,pasta
+22.349824523925786,9,High,1,indian,curry rice
+21.954591369628908,0,No work,0,chinese,black bean sauce noodle
+22.673691177368173,0,No work,0,korean,bibimbap
+22.345678329467773,6,High,0,indian,curry rice
+23.346937942504887,10,Normal,0,chinese,black bean sauce noodle
+23.447550964355468,6,Low,0,korean,kimchi stew
+20.824660110473637,6,Normal,1,chinese,black bean sauce noodle
+23.608727264404298,6,Low,0,western,pasta
+22.156449127197266,0,No work,0,korean,cold noodles
+22.42925109863281,0,No work,0,korean,kimchi stew
+22.833901596069342,9,Normal,1,western,pasta
+17.220934295654303,6,Normal,1,western,pasta
+12.756308555603027,9,Normal,0,japanese,sushi
+14.501343154907227,6,Normal,0,japanese,sushi
+12.498659133911133,10,Normal,0,korean,korean bbq
+17.71197395324707,0,No work,0,chinese,black bean sauce noodle
+16.245354080200194,0,No work,0,western,pasta
+16.216342163085937,6,Low,0,korean,soybean paste stew
+12.986296463012696,6,Normal,0,indian,curry rice
+18.15051383972168,6,Normal,0,chinese,black bean sauce noodle
+19.23765563964844,6,Normal,0,chinese,fried rice
+14.76514892578125,7,Normal,0,korean,cold noodles
+16.543193435668947,0,No work,0,chinese,black bean sauce noodle
+16.244815063476562,0,No work,0,mexican,taco
+20.711510467529298,8,Normal,0,western,pasta
+13.945445251464847,6,Normal,1,western,hamburger
+19.875636291503913,6,Normal,0,chinese,fried rice
+16.36984519958496,8,Normal,1,western,pasta
+17.388805389404293,6,High,1,korean,bibimbap
+13.220403671264648,0,No work,0,japanese,sushi
+14.889451789855958,0,No work,0,indian,curry rice
+16.931280899047852,6,Normal,1,chinese,black bean sauce noodle
+17.97576026916504,6,Normal,0,vietnam,banh mi thit
+15.098464393615725,9,Normal,0,chinese,hotpot(huoguo)
+17.782349395751954,6,Normal,0,korean,cold noodles
+20.36393051147461,6,Normal,0,indian,curry rice
+21.144273376464845,0,No work,0,western,pasta
+17.578804779052735,0,No work,0,chinese,black bean sauce noodle
+17.635443878173827,6,Low,0,korean,cold noodles
+16.653908157348635,6,Normal,1,chinese,black bean sauce noodle
+17.853033828735352,7,Normal,0,chinese,black bean sauce noodle
+19.437414550781245,9,High,0,western,pasta
+6.954653549194338,7,Normal,1,japanese,sushi
+1.0669750213623048,0,No work,0,mexican,burrito
+5.779969024658205,0,No work,0,chinese,fried rice
+2.539831352233887,6,Normal,0,vietnam,banh mi thit
+8.731452941894531,6,Normal,1,western,hamburger
+6.496964550018312,8,High,0,japanese,sushi
+1.6880990982055666,7,Low,1,japanese,sushi
+4.801101493835451,6,High,0,korean,cold noodles
+4.681979370117189,0,No work,0,japanese,sushi
+11.552388381958007,0,No work,0,western,pasta
+3.2661134719848635,7,Normal,1,korean,soybean paste stew
+7.589689922332764,6,Normal,0,korean,cold noodles
+7.9885288238525405,7,Normal,0,korean,cold noodles
+5.446889877319336,6,Normal,0,japanese,sushi
+11.978734588623047,6,Normal,0,western,pasta
+6.264988231658937,0,No work,0,chinese,black bean sauce noodle
+17.462319946289064,0,No work,0,japanese,donkatsu
+6.534072303771973,6,Normal,0,chinese,fried rice
+6.887040710449218,6,Low,0,vietnam,pho
+4.676248455047609,6,Normal,1,western,pasta
+8.463844299316406,6,Normal,1,korean,bibimbap
+5.8953958511352536,9,Normal,0,chinese,fried rice
+9.119594764709475,0,No work,0,vietnam,banh mi thit
+7.515224933624268,0,No work,0,japanese,sushi
+7.973189163208008,8,Low,1,western,pasta
+8.805327987670898,7,Normal,0,chinese,black bean sauce noodle
+7.828819084167482,6,Normal,0,vietnam,banh mi thit
+7.645386600494385,6,High,1,korean,bibimbap
+8.638235664367675,6,Normal,0,japanese,sushi
+11.612041282653811,0,No work,0,chinese,fried rice
+0.7472759008407593,0,No work,0,korean,cold noodles
+7.442009305953981,6,Normal,0,western,pasta
+2.7798722743988042,8,Normal,0,japanese,sushi
+-2.374723768234253,6,Normal,0,japanese,sushi
+-1.4368936061859132,7,Normal,0,indian,curry rice
+1.3128486394882204,6,High,0,western,steak
+0.4938709497451783,0,No work,0,western,steak
+0.14503815174102785,0,No work,0,western,hamburger
+2.4503842830657963,6,Normal,0,korean,kimchi stew
+2.5330246448516847,9,Normal,0,chinese,black bean sauce noodle
+1.6096949338912965,7,High,1,korean,bibimbap
+4.08409276008606,6,Normal,1,korean,soybean paste stew
+2.115399694442749,8,Normal,1,korean,cold noodles
+0.3481550455093384,0,No work,0,chinese,black bean sauce noodle
+1.977501678466797,0,No work,0,vietnam,banh mi thit
+3.760422658920288,6,Normal,0,western,pasta
+1.1067301392555238,6,Normal,0,vietnam,banh mi thit
+0.994223952293396,8,Normal,1,korean,bibimbap
+1.835722541809082,7,Normal,0,chinese,black bean sauce noodle
+0.6573985815048218,6,Normal,0,korean,cold noodles
+3.5675528049468994,0,No work,0,western,pasta
+0.4114782094955445,0,No work,0,chinese,fried rice
+4.4200309276580825,8,High,0,chinese,black bean sauce noodle
+2.8453230381011965,6,High,0,chinese,fried rice
+-1.9458192348480223,6,Low,0,korean,soybean paste stew
+4.372863531112672,6,Normal,0,vietnam,banh mi thit
+1.5801968574523926,6,High,0,western,fried chicken
+-0.2041768789291382,0,No work,0,indian,curry rice
+2.665660810470581,0,No work,0,japanese,sushi
+-0.5853804349899292,6,High,1,western,pasta
+0.6839053869247437,6,High,0,chinese,black bean sauce noodle
